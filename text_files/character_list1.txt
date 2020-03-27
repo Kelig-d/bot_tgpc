@@ -1,0 +1,33 @@
+alioni			 Aliono Chevalier de la barbe de mountain cat 
+arthur_rouge		 Arthur Épée de camelot
+arthur_bleu		 Arthur Roi des prophéties
+ban_vert_1     		 Ban Détournement
+ban_bleu		 Ban Hors-la-loi
+ban_rouge_1   		 Ban Mort-vivant
+ban_vert_2    	   	 Ban Le renard de l'avarice
+ban_rouge_2	 	 Ban Bâton en trois parties
+cain			 Cain Charbon Ardent
+diane_bleu_1		 Diane Le serpent de l'envie
+diane_rouge_1		 Diane Cœur de la terre
+diane_rouge_2	 	 Diane Maître du kung-fu
+diane_bleu_2	 	 Diane Matrona
+dreyfus_vert		 Dreyfus Puissance
+dreyfus_rouge		 Dreyfus Présage du chaos
+elaine			 Elaine Forêt du roi des fées
+elizabeth_rouge_1	 Elizabeth taverne du chapeau du cochon
+elizabeth_verte_1	 Princesse elizabeth liones
+elizabeth_rouge_2	 hawk et elizabeth taverne mobile
+elizabeth_verte_2	 hawk et elizabeth serveuse
+elizabeth_bleu		 Hawk et elizabeth inverse
+friesia			 Friesia crocs mystérieux
+gilthunder_rouge	 gilthunder tonnerre
+gilthunder_vert		 Gilthunder Chevaleresque
+gilthunder_bleu		 Gilthunder Étoile du royaume
+golgius			 Golgius crocs mystérieux
+gowther_bleu		 Gowther héros de Liones 
+gowther_vert		 Gowther homme recherché
+griamore_rouge		 Griamore Champion
+griamore_vert		 Griamore chevalier de fer
+griamore_bleu		 Griamore aventurier
+guila_rouge		 Guila explosion
+guila_bleu		 Guila rapière

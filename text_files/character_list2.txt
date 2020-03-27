@@ -1,0 +1,30 @@
+gustav			 Gustav chevalier de la glace
+helbram			 Helbram gardien de la forêt
+hendrickson_bleu	 Hendrickson fusion
+hendrickson_vert	 Hendrickson présage du chaos
+hauser_rouge		 Hauser tempête
+hauser_bleu		 Hauser étoile du royaume
+hauser_vert		 Hauser	loyauté de liones
+hugo			 Hugo hurleurs de l'aube
+jericho_vert		 Jericho chevalier de la rapidité
+jericho_bleu		 Jericho nouvelle génération
+jericho_rouge		 Jericho aventurier
+jillian			 Jillian hurleurs de l'aube
+jude			 Jude crocs mystérieux
+king_bleu		 King le grizzly de la paresse
+king_vert		 King gardien de la forêt
+king_gros_vert		 King protecteur des poupées
+king_gros_bleu		 King les seven deadly sins
+marmas			 Marmas pan pan boum boum
+meliodas_vert		 Meliodas les seven deadly sins
+meliodas_bleu		 meliodas taverne du chapeau du cochon
+merlin_vert		 Merlin le sanglier de la gourmandise
+merlin_rouge		 Merlin collectionneuse
+ruin			 Ruin crocs mystérieux
+simon			 Simon hurleurs de l'aube
+slader_bleu		 Griamor aventurier
+slader_rouge		 Griamor champion
+taizoo			 Taizoo festival de combat de vaizel
+twigo			 Twigo confirmation
+viviane			 Viviane réincarnation de l'obsession
+weinheidt		 Weinheidt hurleurs de l'aube
