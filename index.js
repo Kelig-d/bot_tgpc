@@ -3,26 +3,31 @@ const bot = new Discord.Client()
 
 bot.on('message',function(message){
   if(message.content.startsWith ("!i")){
-      message.channel.send ("",{files:["C:/Users/moi/Desktop/bot_discord/images/infos/infos_"+message.content.substring(3)+".png",]})
+    message.channel.send ("",{files:["images/infos/infos_"+message.content.substring(3)+".png",]})
   }
 
   if(message.content.startsWith ('!stats')){
-      message.channel.send ({files:["C:/Users/moi/Desktop/bot_discord/images/passives/passive_"+message.content.substring(7)+".png"]})
-      message.channel.send ({files:["C:/Users/moi/Desktop/bot_discord/images/stats/stats_"+message.content.substring(7)+".png"]})
+
+       message.channel.send ({files:["images/passives/passive_"+message.content.substring(7)+".png"]})
+       message.channel.send ({files:["images/stats/stats_"+message.content.substring(7)+".png"]})
+
+
   }
 
   if(message.content.startsWith ('!attack')){
-      message.channel.send ({files:["C:/Users/moi/Desktop/bot_discord/images/attacks/attack1_"+message.content.substring(8)+".png"]})
-      message.channel.send ({files:["C:/Users/moi/Desktop/bot_discord/images/attacks/attack2_"+message.content.substring(8)+".png"]})
-      message.channel.send ({files:["C:/Users/moi/Desktop/bot_discord/images/ults/ult_"+message.content.substring(8)+".png"]})
+
+       message.channel.send ({files:["images/attacks/attack1_"+message.content.substring(8)+".png"]})
+       message.channel.send ({files:["images/attacks/attack2_"+message.content.substring(8)+".png"]})
+       message.channel.send ({files:["images/ults/ult_"+message.content.substring(8)+".png"]})
+
   }
 
   if(message.content === '!list'){
     const fs = require('fs');
-    const path1 = "C:/Users/moi/Desktop/bot_discord/text_files/character_list1.txt";
+    const path1 = "text_files/character_list1.txt";
     const content1 = fs.readFileSync(path1, 'utf-8');
     message.channel.send(content1);
-    const path2 = "C:/Users/moi/Desktop/bot_discord/text_files/character_list2.txt";
+    const path2 = "text_files/character_list2.txt";
     const content2 = fs.readFileSync(path2, 'utf-8');
     message.channel.send(content2);
   }
